@@ -1,0 +1,123 @@
+ + <MAPSET> Mansion (1)
+  <SECTOR> Mansion_Hall1 (101)
+    <LINK> link01
+      <TARGET> Mansion_Hall2
+      <TARGET> Mansion_Passage1
+  <SECTOR> Mansion_Hall2 (102)
+    <LINK> link01
+      <TARGET> Mansion_Hall1
+      <TARGET> Mansion_Passage1
+      <TARGET> Mansion_Room1
+      <TARGET> Mansion_Room2
+  <SECTOR> Mansion_Hall3 (103)
+    <LINK> link01
+      <TARGET> Mansion_Passage2
+    <LINK> link02
+      <TARGET> Mansion_Passage1
+      <TARGET> Mansion_Passage3
+    <LINK> link03
+      <TARGET> Mansion_Passage1
+  <SECTOR> Mansion_Room1 (104)
+    <LINK> 
+      <TARGET> Mansion_Hall2
+      <TARGET> Mansion_Room1
+      <TARGET> Mansion_Room2
+  <SECTOR> Mansion_Room2 (105)
+    <LINK> link01
+      <TARGET> Mansion_Hall1
+      <TARGET> Mansion_Hall2
+      <TARGET> Mansion_Room1
+      <TARGET> Mansion_Passage1
+  <SECTOR> Mansion_Room3 (106)
+    <LINK> 
+      <TARGET> Mansion_Passage2
+  <SECTOR> Mansion_Passage1 (107)
+    <LINK> link01
+      <TARGET> Mansion_Passage2
+    <LINK> link02
+      <TARGET> Mansion_Hall3
+    <LINK> link03
+      <TARGET> Mansion_Hall1
+      <TARGET> Mansion_Hall2
+      <TARGET> Mansion_Room1
+      <TARGET> Mansion_Room2
+  <SECTOR> Mansion_Passage2 (108)
+    <LINK> link01
+      <TARGET> Mansion_Hall3
+    <LINK> link02
+      <TARGET> Mansion_Passage1
+      <TARGET> Mansion_Passage3
+    <LINK> link03
+      <TARGET> Mansion_Room3
+  <SECTOR> Mansion_Passage3 (109)
+    <LINK> link01
+      <TARGET> Mansion_Passage2
+    <LINK> link02
+      <TARGET> Mansion_Hall3
+    <LINK> link03
+      <TARGET> Mansion_Hall1
+      <TARGET> Mansion_Hall2
+      <TARGET> Mansion_Room1
+      <TARGET> Mansion_Room2
+
+
+ + <MAPSET> Prison (2)
+  <SECTOR> Prison_prison (201)
+    <LINK> 
+      <TARGET> Prison_passage1
+  <SECTOR> Prison_passage1 (202)
+    <LINK> 
+      <TARGET> Prison_shower_room
+  <SECTOR> Prison_shower_room (203)
+    <LINK> 
+      <TARGET> Prison_passage3
+  <SECTOR> Prison_passage3 (204)
+    <LINK> 
+      <TARGET> Prison_hall1
+  <SECTOR> Prison_hall1 (205)
+    <LINK> 
+      <TARGET> Prison_drainage1
+  <SECTOR> Prison_drainage1 (206)
+    <LINK> 
+      <TARGET> Prison_hall2
+  <SECTOR> Prison_hall2 (207)
+    <LINK> 
+      <TARGET> Prison_drainage2
+  <SECTOR> Prison_drainage2 (208)
+    <LINK> 
+      <TARGET> Prison_passage2
+  <SECTOR> Prison_passage2 (209)
+    <LINK> 
+      <TARGET> Prison_prison
+
+
+ + <MAPSET> Dungeon (3)
+  <SECTOR> Dungeon_nest1 (301)
+    <LINK> 
+      <TARGET> Dungeon_passage3
+  <SECTOR> Dungeon_passage3 (302)
+    <LINK> 
+      <TARGET> Dungeon_passage1
+  <SECTOR> Dungeon_passage1 (303)
+    <LINK> 
+      <TARGET> Dungeon_cavern2
+  <SECTOR> Dungeon_cavern2 (304)
+    <LINK> 
+      <TARGET> Dungeon_cavern1
+  <SECTOR> Dungeon_cavern1 (305)
+    <LINK> 
+      <TARGET> Dungeon_cavern3
+  <SECTOR> Dungeon_cavern3 (306)
+    <LINK> 
+      <TARGET> Dungeon_nest3
+  <SECTOR> Dungeon_nest3 (307)
+    <LINK> 
+      <TARGET> Dungeon_passage2
+  <SECTOR> Dungeon_passage2 (308)
+    <LINK> 
+      <TARGET> Dungeon_nest2
+  <SECTOR> Dungeon_nest2 (309)
+    <LINK> 
+      <TARGET> Dungeon_nest1
+
+

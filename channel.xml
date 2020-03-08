@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML id="channel">
+	<DEFAULTCHANNELNAME name="STR:CHANNEL_DEFAULT_NAME"/>
+	<DEFAULTRULENAME name="novice"/>
+
+	<CHANNEL name="Free Channel" maxplayers="200" rule="elite"/>
+</XML>

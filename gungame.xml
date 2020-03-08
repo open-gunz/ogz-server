@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<XML id="GunGame">
+
+	<SET>
+		<!-- Pistols -->
+		<ITEMSET melee="inventory" primary="4010" secondary="4002"/>
+		<!-- Revolvers -->
+		<ITEMSET melee="inventory" primary="4502" secondary="4006"/>
+		<!-- Submachine Guns -->
+		<ITEMSET melee="inventory" primary="5004" secondary="5002"/>
+		<!-- Shotguns -->
+		<ITEMSET melee="inventory" primary="6002" secondary="6001"/>
+		<!-- Rifles -->
+		<ITEMSET melee="inventory" primary="7002" secondary="7001"/>
+		<!-- Machine guns -->
+		<ITEMSET melee="inventory" primary="8002" secondary="8001"/>
+		<!-- Rocket launchers -->
+		<ITEMSET melee="inventory" primary="9002" secondary="9001"/>
+		<!-- Frag grenades -->
+		<ITEMSET custom1="30301" custom2="30302"/>
+		<!-- Melee -->
+		<ITEMSET melee="inventory"/>
+	</SET>
+	
+	<OPTIONS MinKillsPerLevel="2"/>
+	
+</XML>

@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML id="shop">
+
+<!-- devil set (Men) items disabled see zitem.xml 
+<SELL itemid="111"/>
+
+<SELL itemid="193"/>
+
+<SELL itemid="140"/>
+
+<SELL itemid="112"/>
+
+<SELL itemid="113"/>
+
+<SELL itemid="114"/>
+-->
+
+<SELL itemid="39"/>
+
+<SELL itemid="1"/>
+
+<SELL itemid="6"/>
+
+<SELL itemid="7"/>
+
+<SELL itemid="8"/>
+
+<SELL itemid="31001"/>
+
+<SELL itemid="31002"/>
+
+<SELL itemid="31003"/>
+
+<SELL itemid="31004"/>
+
+<SELL itemid="31005"/>
+
+<SELL itemid="31006"/>
+
+<SELL itemid="31007"/>
+
+<SELL itemid="31008"/>
+
+<SELL itemid="67"/>
+
+<SELL itemid="40"/>
+
+<SELL itemid="2"/>
+
+<SELL itemid="8501"/>
+
+<SELL itemid="8502"/>
+
+<SELL itemid="8503"/>
+
+<SELL itemid="12"/>
+
+<SELL itemid="15"/>
+
+<SELL itemid="16"/>
+
+<SELL itemid="17"/>
+
+<!-- Shura sword see zitem.xml 
+<SELL itemid="18"/>
+-->
+
+<SELL itemid="32001"/>
+
+<SELL itemid="32002"/>
+
+<SELL itemid="32003"/>
+
+<SELL itemid="32004"/>
+
+<SELL itemid="32005"/>
+
+<SELL itemid="32007"/>
+
+<SELL itemid="32008"/>
+
+<SELL itemid="32009"/>
+
+<SELL itemid="32010"/>
+
+<SELL itemid="89"/>
+
+<SELL itemid="41"/>
+
+<SELL itemid="33002"/>
+
+<SELL itemid="31"/>
+
+<SELL itemid="32"/>
+
+<SELL itemid="33"/>
+
+<SELL itemid="34"/>
+
+<SELL itemid="35"/>
+
+<SELL itemid="33001"/>
+
+<SELL itemid="33003"/>
+
+<SELL itemid="33004"/>
+
+<SELL itemid="33005"/>
+
+<!-- Pistols 1 hand 
+<SELL itemid="4001"/>
+
+<SELL itemid="4009"/>
+
+<SELL itemid="4011"/>
+
+<SELL itemid="4003"/>
+
+<SELL itemid="4013"/>
+
+<SELL itemid="4015"/>
+
+<SELL itemid="4017"/>
+
+<SELL itemid="4019"/>
+-->
+
+<SELL itemid="4024"/>
+
+<!--
+<SELL itemid="4025"/>
+-->
+
+<SELL itemid="4002"/>
+
+<SELL itemid="4012"/>
+
+<SELL itemid="4004"/>
+
+<SELL itemid="4022"/>
+
+<SELL itemid="34001"/>
+
+<SELL itemid="34002"/>
+
+<SELL itemid="34003"/>
+
+<SELL itemid="34004"/>
+
+<SELL itemid="34005"/>
+
+<SELL itemid="34007"/>
+
+<!-- Repeats  pistols X2
+<SELL itemid="4010"/>
+<SELL itemid="4014"/>
+<SELL itemid="4016"/>
+<SELL itemid="4018"/>
+<SELL itemid="4020"/>
+<SELL itemid="34006"/>
+-->
+
+<!-- Revolver X1 
+<SELL itemid="4005"/>
+<SELL itemid="4501"/>
+<SELL itemid="4503"/>
+<SELL itemid="4007"/>
+<SELL itemid="4505"/>
+<SELL itemid="4507"/>
+<SELL itemid="4509"/>
+<SELL itemid="4511"/>
+<SELL itemid="4513"/>
+-->
+<SELL itemid="4519"/>
+
+<SELL itemid="4006"/>
+
+<SELL itemid="4502"/>
+
+<SELL itemid="4506"/>
+
+<SELL itemid="4514"/>
+
+<SELL itemid="4516"/>
+
+<SELL itemid="34501"/>
+
+<SELL itemid="34502"/>
+
+<SELL itemid="34503"/>
+
+<SELL itemid="34505"/>
+
+<!-- Revolver X2 Doubles 
+<SELL itemid="4504"/>
+<SELL itemid="4512"/>
+<SELL itemid="4510"/>
+<SELL itemid="4008"/>
+<SELL itemid="4508"/>
+<SELL itemid="34504"/>
+-->
+
+<!-- SMGs X1 
+<SELL itemid="5001"/>
+<SELL itemid="5003"/>
+<SELL itemid="5005"/>
+<SELL itemid="5007"/>
+<SELL itemid="5009"/>
+<SELL itemid="5011"/>
+<SELL itemid="5013"/>
+<SELL itemid="5015"/>
+<SELL itemid="5017"/>
+-->
+<SELL itemid="5022"/>
+
+<SELL itemid="5002"/>
+
+<SELL itemid="5004"/>
+
+<SELL itemid="5006"/>
+
+<SELL itemid="5014"/>
+
+<SELL itemid="5020"/>
+
+<SELL itemid="35001"/>
+
+<SELL itemid="35002"/>
+
+<SELL itemid="35003"/>
+
+<SELL itemid="35005"/>
+
+<SELL itemid="35006"/>
+
+<SELL itemid="35007"/>
+
+<SELL itemid="6020"/>
+
+<SELL itemid="6011"/>
+
+<SELL itemid="6013"/>
+
+<!-- SMGs X2 doubles 
+<SELL itemid="5008"/>
+<SELL itemid="5010"/>
+<SELL itemid="5012"/>
+<SELL itemid="5016"/>
+<SELL itemid="5018"/>
+-->
+
+<!-- breaker 3 see zitem.xml
+<SELL itemid="6001"/>
+-->
+
+<SELL itemid="6002"/>
+
+<SELL itemid="6004"/>
+
+<SELL itemid="6008"/>
+
+<SELL itemid="6010"/>
+
+<SELL itemid="35501"/>
+
+<SELL itemid="35502"/>
+
+<SELL itemid="35503"/>
+
+<SELL itemid="35504"/>
+
+<SELL itemid="35505"/>
+
+<SELL itemid="35507"/>
+
+<SELL itemid="35508"/>
+
+<!--
+<SELL itemid="6005"/>
+-->
+
+<SELL itemid="6007"/>
+
+<SELL itemid="7020"/>
+
+<SELL itemid="7001"/>
+
+<SELL itemid="7002"/>
+
+<SELL itemid="7004"/>
+
+<SELL itemid="7008"/>
+
+<SELL itemid="7009"/>
+
+<SELL itemid="36501"/>
+
+<SELL itemid="36502"/>
+
+<SELL itemid="36503"/>
+
+<SELL itemid="36504"/>
+
+<SELL itemid="36505"/>
+
+<SELL itemid="36506"/>
+
+<SELL itemid="36507"/>
+
+<SELL itemid="36508"/>
+
+<SELL itemid="36510"/>
+
+<!-- Rifles Repeats 
+<SELL itemid="7003"/>
+<SELL itemid="7005"/>
+<SELL itemid="7006"/>
+<SELL itemid="7007"/>
+<SELL itemid="36509"/>
+-->
+
+<SELL itemid="8007"/>
+
+<SELL itemid="8001"/>
+
+<SELL itemid="8003"/>
+
+<SELL itemid="8004"/>
+
+<SELL itemid="37501"/>
+
+<SELL itemid="37502"/>
+
+<SELL itemid="37504"/>
+
+<!-- Machinegun repeats 
+<SELL itemid="8002"/>
+<SELL itemid="37503"/>
+-->
+
+<SELL itemid="9010"/>
+
+<SELL itemid="9011"/>
+
+<SELL itemid="9001"/>
+
+<SELL itemid="9004"/>
+
+<SELL itemid="9005"/>
+
+<SELL itemid="9007"/>
+
+<SELL itemid="37001"/>
+
+<SELL itemid="37002"/>
+
+<SELL itemid="37003"/>
+
+<!-- Rockets repeats 
+<SELL itemid="9006"/>
+<SELL itemid="9002"/>
+<SELL itemid="9003"/>
+-->
+
+<!-- Portal Gun 
+<SELL itemid="8500"/>
+-->
+
+<!-- sniper
+<SELL itemid="10001"/>
+-->
+<SELL itemid="30306"/>
+
+<SELL itemid="30304"/>
+
+
+<!-- Grenades repeats 
+<SELL itemid="30301"/>
+<SELL itemid="30302"/>
+<SELL itemid="30303"/>
+-->
+
+<SELL itemid="30205"/>
+
+<!-- Flashbangs repeats 
+<SELL itemid="30201"/>
+<SELL itemid="30202"/>
+<SELL itemid="30203"/>
+<SELL itemid="30204"/>
+-->
+
+<SELL itemid="30405"/>
+
+<!-- Smoke Grenades repeats 
+<SELL itemid="30401"/>
+<SELL itemid="30402"/>
+<SELL itemid="30403"/>
+<SELL itemid="30404"/>
+-->
+
+<!--Heal -->
+<SELL itemid="52702"/>
+<SELL itemid="52802"/>
+
+<SELL itemid="400007"/>
+<SELL itemid="400013"/>
+
+
+<SELL itemid="52511"/>
+<SELL itemid="400010"/>
+<SELL itemid="400014"/>
+
+
+<!-- regular meds 
+<SELL itemid="30001"/>
+<SELL itemid="30101"/>
+-->
+
+  <!-- Bulletkit / ammo pack -->
+<SELL itemid="52601"/>
+
+<!-- rings 
+<SELL itemid="25001"/>
+
+<SELL itemid="25002"/>
+
+<SELL itemid="25003"/>
+
+<SELL itemid="25004"/>
+
+<SELL itemid="25005"/>
+
+<SELL itemid="25006"/>
+
+<SELL itemid="25007"/>
+
+<SELL itemid="25008"/>
+
+<SELL itemid="25009"/>
+
+<SELL itemid="25010"/>
+-->
+
+<SELL itemid="40001"/>
+
+<SELL itemid="40002"/>
+
+<SELL itemid="40003"/>
+
+<SELL itemid="40004"/>
+
+<SELL itemid="40005"/>
+
+<SELL itemid="40006"/>
+
+<SELL itemid="40007"/>
+
+<SELL itemid="40008"/>
+
+<SELL itemid="40009"/>
+
+<SELL itemid="40010"/>
+
+<SELL itemid="40011"/>
+
+<SELL itemid="40012"/>
+
+<SELL itemid="40013"/>
+
+<SELL itemid="40014"/>
+
+<SELL itemid="40015"/>
+
+<SELL itemid="40016"/>
+
+<SELL itemid="40017"/>
+
+<SELL itemid="40018"/>
+
+<SELL itemid="40020"/>
+
+<SELL itemid="40021"/>
+
+<SELL itemid="40022"/>
+
+<SELL itemid="40023"/>
+
+<SELL itemid="40024"/>
+
+<SELL itemid="40025"/>
+
+<SELL itemid="40026"/>
+
+<SELL itemid="40027"/>
+
+<SELL itemid="40028"/>
+
+<SELL itemid="40029"/>
+
+<SELL itemid="40030"/>
+
+<SELL itemid="40031"/>
+
+<SELL itemid="40032"/>
+
+<SELL itemid="40033"/>
+
+<SELL itemid="40034"/>
+
+<SELL itemid="40035"/>
+
+<SELL itemid="40501"/>
+
+<SELL itemid="40502"/>
+
+<SELL itemid="40503"/>
+
+<SELL itemid="40504"/>
+
+<SELL itemid="40505"/>
+
+<SELL itemid="40506"/>
+
+<SELL itemid="40507"/>
+
+<SELL itemid="40508"/>
+
+<SELL itemid="40509"/>
+
+<SELL itemid="40510"/>
+
+<SELL itemid="40511"/>
+
+<SELL itemid="40512"/>
+
+<SELL itemid="40513"/>
+
+<SELL itemid="40514"/>
+
+<SELL itemid="40515"/>
+
+<SELL itemid="40516"/>
+
+<SELL itemid="40517"/>
+
+<SELL itemid="40518"/>
+
+<SELL itemid="40520"/>
+
+<SELL itemid="40521"/>
+
+<SELL itemid="40522"/>
+
+<SELL itemid="40523"/>
+
+<SELL itemid="40524"/>
+
+<SELL itemid="40525"/>
+
+<SELL itemid="40526"/>
+
+<SELL itemid="40527"/>
+
+<SELL itemid="40528"/>
+
+<SELL itemid="40529"/>
+
+<SELL itemid="40530"/>
+
+<SELL itemid="40531"/>
+
+<SELL itemid="40532"/>
+
+<SELL itemid="40533"/>
+
+<SELL itemid="40534"/>
+
+<SELL itemid="40535"/>
+
+<SELL itemid="49001"/>
+
+<SELL itemid="49006"/>
+
+<SELL itemid="48001"/>
+
+<SELL itemid="48002"/>
+
+<SELL itemid="48011"/>
+
+<SELL itemid="48016"/>
+
+<SELL itemid="48021"/>
+
+<SELL itemid="48026"/>
+
+<SELL itemid="48031"/>
+
+<SELL itemid="48036"/>
+
+<!--
+<SELL itemid="48041"/>
+
+<SELL itemid="48046"/>
+-->
+
+<SELL itemid="48051"/>
+
+<SELL itemid="48056"/>
+
+<SELL itemid="48066"/>
+
+<SELL itemid="48071"/>
+
+<SELL itemid="48076"/>
+
+<SELL itemid="48081"/>
+
+<SELL itemid="48086"/>
+
+<SELL itemid="30930"/>
+
+<SELL itemid="30935"/>
+
+<SELL itemid="30940"/>
+
+<SELL itemid="30945"/>
+
+<SELL itemid="13006"/>
+
+<SELL itemid="13011"/>
+
+<SELL itemid="13016"/>
+
+<SELL itemid="13021"/>
+
+<SELL itemid="101"/>
+
+<SELL itemid="102"/>
+
+<SELL itemid="115"/>
+
+<SELL itemid="120"/>
+
+<SELL itemid="125"/>
+
+<SELL itemid="130"/>
+
+<SELL itemid="135"/>
+
+<SELL itemid="151"/>
+
+<SELL itemid="156"/>
+
+<SELL itemid="161"/>
+
+<SELL itemid="166"/>
+
+<SELL itemid="171"/>
+
+<SELL itemid="176"/>
+
+<SELL itemid="181"/>
+
+<SELL itemid="186"/>
+
+<SELL itemid="192"/>
+
+<SELL itemid="146"/>
+
+<SELL itemid="141"/>
+
+<SELL itemid="12996"/>
+
+<SELL itemid="13001"/>
+
+<SELL itemid="21001"/>
+
+<SELL itemid="21002"/>
+
+<SELL itemid="21003"/>
+
+<SELL itemid="21004"/>
+
+<SELL itemid="21005"/>
+
+<SELL itemid="21006"/>
+
+<SELL itemid="21007"/>
+
+<SELL itemid="21008"/>
+
+<SELL itemid="21501"/>
+
+<SELL itemid="21502"/>
+
+<SELL itemid="21504"/>
+
+<SELL itemid="21503"/>
+
+<SELL itemid="21505"/>
+
+<SELL itemid="21506"/>
+
+<SELL itemid="21507"/>
+
+<SELL itemid="21508"/>
+
+<SELL itemid="41001"/>
+
+<SELL itemid="41002"/>
+
+<SELL itemid="41003"/>
+
+<SELL itemid="41004"/>
+
+<SELL itemid="41005"/>
+
+<SELL itemid="41006"/>
+
+<SELL itemid="41007"/>
+
+<SELL itemid="41008"/>
+
+<SELL itemid="41009"/>
+
+<SELL itemid="41010"/>
+
+<SELL itemid="41011"/>
+
+<SELL itemid="41012"/>
+
+<SELL itemid="41013"/>
+
+<SELL itemid="41014"/>
+
+<SELL itemid="41016"/>
+
+<SELL itemid="41017"/>
+
+<SELL itemid="41018"/>
+
+<SELL itemid="41019"/>
+
+<SELL itemid="41020"/>
+
+<SELL itemid="41021"/>
+
+<SELL itemid="41022"/>
+
+<SELL itemid="41023"/>
+
+<SELL itemid="41024"/>
+
+<SELL itemid="41025"/>
+
+<SELL itemid="41026"/>
+
+<SELL itemid="41027"/>
+
+<SELL itemid="41501"/>
+
+<SELL itemid="41502"/>
+
+<SELL itemid="41503"/>
+
+<SELL itemid="41504"/>
+
+<SELL itemid="41505"/>
+
+<SELL itemid="41506"/>
+
+<SELL itemid="41507"/>
+
+<SELL itemid="41508"/>
+
+<SELL itemid="41509"/>
+
+<SELL itemid="41510"/>
+
+<SELL itemid="41511"/>
+
+<SELL itemid="41512"/>
+
+<SELL itemid="41513"/>
+
+<SELL itemid="41514"/>
+
+<SELL itemid="41516"/>
+
+<SELL itemid="41517"/>
+
+<SELL itemid="41518"/>
+
+<SELL itemid="49002"/>
+
+<SELL itemid="49007"/>
+
+<SELL itemid="48003"/>
+
+<SELL itemid="48004"/>
+
+<SELL itemid="48012"/>
+
+<SELL itemid="48017"/>
+
+<SELL itemid="48022"/>
+
+<SELL itemid="48027"/>
+
+<SELL itemid="48032"/>
+
+<SELL itemid="48037"/>
+
+<!--
+<SELL itemid="48042"/>
+
+<SELL itemid="48047"/>
+-->
+
+<SELL itemid="48052"/>
+
+<SELL itemid="48057"/>
+
+<SELL itemid="48062"/>
+
+<SELL itemid="48067"/>
+
+<SELL itemid="48072"/>
+
+<SELL itemid="48077"/>
+
+<SELL itemid="48082"/>
+
+<SELL itemid="48087"/>
+
+<SELL itemid="30931"/>
+
+<SELL itemid="30936"/>
+
+<SELL itemid="30941"/>
+
+<SELL itemid="30946"/>
+
+<SELL itemid="13007"/>
+
+<SELL itemid="13012"/>
+
+<SELL itemid="13017"/>
+
+<SELL itemid="13022"/>
+
+<SELL itemid="103"/>
+
+<SELL itemid="104"/>
+
+<SELL itemid="116"/>
+
+<SELL itemid="121"/>
+
+<SELL itemid="126"/>
+
+<SELL itemid="131"/>
+
+<SELL itemid="136"/>
+
+<SELL itemid="152"/>
+
+<SELL itemid="157"/>
+
+<SELL itemid="162"/>
+
+<SELL itemid="167"/>
+
+<SELL itemid="172"/>
+
+<SELL itemid="177"/>
+
+<SELL itemid="182"/>
+
+<SELL itemid="187"/>
+
+<SELL itemid="41519"/>
+
+<SELL itemid="41520"/>
+
+<SELL itemid="41521"/>
+
+<SELL itemid="41522"/>
+
+<SELL itemid="41523"/>
+
+<SELL itemid="41524"/>
+
+<SELL itemid="41525"/>
+
+<SELL itemid="41526"/>
+
+<SELL itemid="41527"/>
+
+<SELL itemid="147"/>
+
+<SELL itemid="142"/>
+
+<SELL itemid="12997"/>
+
+<SELL itemid="13002"/>
+
+<SELL itemid="22001"/>
+
+<SELL itemid="22002"/>
+
+<SELL itemid="22003"/>
+
+<SELL itemid="22004"/>
+
+<SELL itemid="22005"/>
+
+<SELL itemid="22501"/>
+
+<SELL itemid="22502"/>
+
+<SELL itemid="22503"/>
+
+<SELL itemid="22504"/>
+
+<SELL itemid="22505"/>
+
+<SELL itemid="42001"/>
+
+<SELL itemid="42002"/>
+
+<SELL itemid="42003"/>
+
+<SELL itemid="42004"/>
+
+<SELL itemid="42005"/>
+
+<SELL itemid="42006"/>
+
+<SELL itemid="42007"/>
+
+<SELL itemid="42008"/>
+
+<SELL itemid="42009"/>
+
+<SELL itemid="42010"/>
+
+<SELL itemid="42011"/>
+
+<SELL itemid="42012"/>
+
+<SELL itemid="42013"/>
+
+<SELL itemid="42015"/>
+
+<SELL itemid="42016"/>
+
+<SELL itemid="42017"/>
+
+<SELL itemid="42018"/>
+
+<SELL itemid="42019"/>
+
+<SELL itemid="42020"/>
+
+<SELL itemid="42021"/>
+
+<SELL itemid="42022"/>
+
+<SELL itemid="42501"/>
+
+<SELL itemid="42502"/>
+
+<SELL itemid="42503"/>
+
+<SELL itemid="42504"/>
+
+<SELL itemid="42505"/>
+
+<SELL itemid="42506"/>
+
+<SELL itemid="42507"/>
+
+<SELL itemid="42508"/>
+
+<SELL itemid="42509"/>
+
+<SELL itemid="42510"/>
+
+<SELL itemid="42511"/>
+
+<SELL itemid="42512"/>
+
+<SELL itemid="42513"/>
+
+<SELL itemid="42515"/>
+
+<SELL itemid="42516"/>
+
+<SELL itemid="42517"/>
+
+<SELL itemid="42518"/>
+
+<SELL itemid="42519"/>
+
+<SELL itemid="42520"/>
+
+<SELL itemid="42521"/>
+
+<SELL itemid="42522"/>
+
+<SELL itemid="49003"/>
+
+<SELL itemid="49008"/>
+
+<SELL itemid="48005"/>
+
+<SELL itemid="48006"/>
+
+<SELL itemid="48013"/>
+
+<SELL itemid="48018"/>
+
+<SELL itemid="48023"/>
+
+<SELL itemid="48028"/>
+
+<SELL itemid="48033"/>
+
+<SELL itemid="48038"/>
+
+<!--
+<SELL itemid="48043"/>
+
+<SELL itemid="48048"/>
+-->
+
+<SELL itemid="48053"/>
+
+<SELL itemid="48058"/>
+
+<SELL itemid="48063"/>
+
+<SELL itemid="48068"/>
+
+<SELL itemid="48073"/>
+
+<SELL itemid="48078"/>
+
+<SELL itemid="48083"/>
+
+<SELL itemid="48088"/>
+
+<SELL itemid="30932"/>
+
+<SELL itemid="30937"/>
+
+<SELL itemid="30942"/>
+
+<SELL itemid="30947"/>
+
+<SELL itemid="13008"/>
+
+<SELL itemid="13013"/>
+
+<SELL itemid="13018"/>
+
+<SELL itemid="13023"/>
+
+<SELL itemid="105"/>
+
+<SELL itemid="106"/>
+
+<SELL itemid="117"/>
+
+<SELL itemid="122"/>
+
+<SELL itemid="127"/>
+
+<SELL itemid="132"/>
+
+<SELL itemid="137"/>
+
+<SELL itemid="153"/>
+
+<SELL itemid="158"/>
+
+<SELL itemid="163"/>
+
+<SELL itemid="168"/>
+
+<SELL itemid="173"/>
+
+<SELL itemid="178"/>
+
+<SELL itemid="183"/>
+
+<SELL itemid="188"/>
+
+<SELL itemid="148"/>
+
+<SELL itemid="143"/>
+
+<SELL itemid="12998"/>
+
+ <!-- female Wedding legs see zitem.xml
+<SELL itemid="12999"/>
+-->
+
+<SELL itemid="13003"/>
+
+<SELL itemid="23001"/>
+
+<SELL itemid="23005"/>
+
+<SELL itemid="23002"/>
+
+<SELL itemid="23004"/>
+
+<SELL itemid="23003"/>
+
+<SELL itemid="23006"/>
+
+<SELL itemid="23007"/>
+
+<SELL itemid="23501"/>
+
+<SELL itemid="23508"/>
+
+<SELL itemid="23502"/>
+
+<SELL itemid="23503"/>
+
+<SELL itemid="23504"/>
+
+<SELL itemid="23505"/>
+
+<SELL itemid="23506"/>
+
+<SELL itemid="23507"/>
+
+<SELL itemid="23509"/>
+
+<SELL itemid="23510"/>
+
+<SELL itemid="43001"/>
+
+<SELL itemid="43002"/>
+
+<SELL itemid="43003"/>
+
+<SELL itemid="43004"/>
+
+<SELL itemid="43005"/>
+
+<SELL itemid="43006"/>
+
+<SELL itemid="43007"/>
+
+<SELL itemid="43008"/>
+
+<SELL itemid="43009"/>
+
+<SELL itemid="43010"/>
+
+<SELL itemid="43011"/>
+
+<SELL itemid="43012"/>
+
+<SELL itemid="43013"/>
+
+<SELL itemid="43015"/>
+
+<SELL itemid="43016"/>
+
+<SELL itemid="43017"/>
+
+<SELL itemid="43018"/>
+
+<SELL itemid="43019"/>
+
+<SELL itemid="43020"/>
+
+<SELL itemid="43021"/>
+
+<SELL itemid="43022"/>
+
+<SELL itemid="43023"/>
+
+<SELL itemid="43024"/>
+
+<SELL itemid="43025"/>
+
+<SELL itemid="43501"/>
+
+<SELL itemid="43502"/>
+
+<SELL itemid="43503"/>
+
+<SELL itemid="43504"/>
+
+<SELL itemid="43505"/>
+
+<SELL itemid="43506"/>
+
+<SELL itemid="43507"/>
+
+<SELL itemid="43508"/>
+
+<SELL itemid="43509"/>
+
+<SELL itemid="43510"/>
+
+<SELL itemid="43511"/>
+
+<SELL itemid="43512"/>
+
+<SELL itemid="43513"/>
+
+<SELL itemid="43515"/>
+
+<SELL itemid="43516"/>
+
+<SELL itemid="43517"/>
+
+<SELL itemid="43518"/>
+
+<SELL itemid="43519"/>
+
+<SELL itemid="43520"/>
+
+<SELL itemid="43521"/>
+
+<SELL itemid="43522"/>
+
+<SELL itemid="43523"/>
+
+<SELL itemid="43524"/>
+
+<SELL itemid="43525"/>
+
+<SELL itemid="49004"/>
+
+<SELL itemid="49009"/>
+
+<SELL itemid="48007"/>
+
+<SELL itemid="48008"/>
+
+<SELL itemid="48014"/>
+
+<SELL itemid="48019"/>
+
+<SELL itemid="48024"/>
+
+<SELL itemid="48029"/>
+
+<SELL itemid="48034"/>
+
+<SELL itemid="48039"/>
+
+<!--
+<SELL itemid="48044"/>
+
+<SELL itemid="48049"/>
+-->
+
+<SELL itemid="48054"/>
+
+<SELL itemid="48059"/>
+
+<SELL itemid="48069"/>
+
+<SELL itemid="48074"/>
+
+<SELL itemid="48079"/>
+
+<SELL itemid="48084"/>
+
+<SELL itemid="48089"/>
+
+<SELL itemid="30933"/>
+
+<SELL itemid="30938"/>
+
+<SELL itemid="30943"/>
+
+<SELL itemid="30948"/>
+
+<SELL itemid="13009"/>
+
+<SELL itemid="13014"/>
+
+<SELL itemid="13019"/>
+
+<SELL itemid="13024"/>
+
+<SELL itemid="107"/>
+
+<SELL itemid="108"/>
+
+<SELL itemid="118"/>
+
+<SELL itemid="123"/>
+
+<SELL itemid="128"/>
+
+<SELL itemid="133"/>
+
+<SELL itemid="138"/>
+
+<SELL itemid="154"/>
+
+<SELL itemid="159"/>
+
+<SELL itemid="164"/>
+
+<SELL itemid="169"/>
+
+<SELL itemid="174"/>
+
+<SELL itemid="179"/>
+
+<SELL itemid="184"/>
+
+<SELL itemid="189"/>
+
+<SELL itemid="149"/>
+
+<SELL itemid="144"/>
+
+<SELL itemid="13004"/>
+
+<SELL itemid="24001"/>
+
+<SELL itemid="24002"/>
+
+<SELL itemid="24003"/>
+
+<SELL itemid="24004"/>
+
+<SELL itemid="24005"/>
+
+<SELL itemid="24006"/>
+
+<SELL itemid="24501"/>
+
+<SELL itemid="24502"/>
+
+<SELL itemid="24503"/>
+
+<SELL itemid="24504"/>
+
+<SELL itemid="24505"/>
+
+<SELL itemid="24506"/>
+
+<SELL itemid="44001"/>
+
+<SELL itemid="44002"/>
+
+<SELL itemid="44003"/>
+
+<SELL itemid="44004"/>
+
+<SELL itemid="44005"/>
+
+<SELL itemid="44006"/>
+
+<SELL itemid="44007"/>
+
+<SELL itemid="44008"/>
+
+<SELL itemid="44009"/>
+
+<SELL itemid="44010"/>
+
+<SELL itemid="44011"/>
+
+<SELL itemid="44012"/>
+
+<SELL itemid="44013"/>
+
+<SELL itemid="44015"/>
+
+<SELL itemid="44016"/>
+
+<SELL itemid="44017"/>
+
+<SELL itemid="44018"/>
+
+<SELL itemid="44019"/>
+
+<SELL itemid="44020"/>
+
+<SELL itemid="44021"/>
+
+<SELL itemid="44022"/>
+
+<SELL itemid="44023"/>
+
+<SELL itemid="44024"/>
+
+<SELL itemid="44025"/>
+
+<SELL itemid="44501"/>
+
+<SELL itemid="44502"/>
+
+<SELL itemid="44503"/>
+
+<SELL itemid="44504"/>
+
+<SELL itemid="44505"/>
+
+<SELL itemid="44506"/>
+
+<SELL itemid="44507"/>
+
+<SELL itemid="44508"/>
+
+<SELL itemid="44509"/>
+
+<SELL itemid="44510"/>
+
+<SELL itemid="44511"/>
+
+<SELL itemid="44512"/>
+
+<SELL itemid="44513"/>
+
+<SELL itemid="44515"/>
+
+<SELL itemid="44516"/>
+
+<SELL itemid="44517"/>
+
+<SELL itemid="44518"/>
+
+<SELL itemid="44519"/>
+
+<!--
+<SELL itemid="44520"/>
+-->
+<SELL itemid="44521"/>
+
+<SELL itemid="44522"/>
+
+<SELL itemid="44523"/>
+
+<SELL itemid="44524"/>
+
+<SELL itemid="44525"/>
+
+<SELL itemid="49010"/>
+
+<SELL itemid="48009"/>
+
+<SELL itemid="48010"/>
+
+<SELL itemid="48015"/>
+
+<SELL itemid="48020"/>
+
+<SELL itemid="48025"/>
+
+<SELL itemid="48030"/>
+
+<SELL itemid="48035"/>
+
+<SELL itemid="48040"/>
+
+<!--
+<SELL itemid="48045"/>
+
+<SELL itemid="48050"/>
+-->
+
+<SELL itemid="48055"/>
+
+<SELL itemid="48060"/>
+
+<SELL itemid="48065"/>
+
+<SELL itemid="48070"/>
+
+<SELL itemid="48075"/>
+
+<SELL itemid="48080"/>
+
+<SELL itemid="48085"/>
+
+<SELL itemid="48090"/>
+
+<SELL itemid="30934"/>
+
+<SELL itemid="30939"/>
+
+<SELL itemid="30944"/>
+
+<SELL itemid="30949"/>
+
+<SELL itemid="13010"/>
+
+<SELL itemid="13015"/>
+
+<SELL itemid="13020"/>
+
+<SELL itemid="13025"/>
+
+<SELL itemid="109"/>
+
+<SELL itemid="110"/>
+
+<SELL itemid="119"/>
+
+<SELL itemid="124"/>
+
+<SELL itemid="129"/>
+
+<SELL itemid="134"/>
+
+<SELL itemid="139"/>
+
+<SELL itemid="155"/>
+
+<SELL itemid="160"/>
+
+<SELL itemid="165"/>
+
+<SELL itemid="170"/>
+
+<SELL itemid="175"/>
+
+<SELL itemid="180"/>
+
+<SELL itemid="185"/>
+
+<SELL itemid="190"/>
+
+<SELL itemid="49005"/>
+
+<SELL itemid="150"/>
+
+<SELL itemid="145"/>
+
+<SELL itemid="13000"/>
+
+<SELL itemid="13005"/>
+
+<SELL itemid="4520"/>
+
+<!-- Quest Page -->
+
+<SELL itemid="200001" />
+
+<SELL itemid="200002" />
+
+<SELL itemid="200003" />
+	
+<!--
+  <SELL itemid="5023"/>
+-->
+
+<!--
+<SELL itemid="6021"/>
+-->
+
+<!--
+<SELL itemid="7021"/>
+-->
+
+<!--
+<SELL itemid="8008"/>
+-->
+
+<!-- Shield (sword)
+<SELL itemid="9024"/>
+-->
+<!-- "Tensa Zangetsu (Sword)" looks weird with blade cut off
+<SELL itemid="9023"/>
+-->
+
+<!-- Woman Bazooka 
+<SELL itemid="9022"/>
+-->
+
+<!-- Crowns 
+
+<SELL itemid="1112"/>
+
+<SELL itemid="1113"/>
+-->
+
+<!-- admin stuff 
+<SELL itemid="9012"/>
+
+<SELL itemid="9013"/>
+
+<SELL itemid="9014"/>
+
+<SELL itemid="9015"/>
+
+<SELL itemid="9016"/>
+
+<SELL itemid="9017"/>
+-->
+
+</XML>
+<!-- Total Items Written:698 -->
